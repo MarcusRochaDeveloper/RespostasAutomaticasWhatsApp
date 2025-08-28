@@ -2,3 +2,4 @@ node_modules/
 sessions/
 clientes.db
 .env
+node_modules/
