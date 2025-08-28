@@ -1,0 +1,4 @@
+node_modules/
+sessions/
+clientes.db
+.env

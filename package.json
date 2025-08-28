@@ -1,0 +1,28 @@
+{
+  "name": "respostas-automaticas-whatsapp",
+  "version": "1.0.0",
+  "description": "Sistema de resposta automática para WhatsApp usando whatsapp-web.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "whatsapp-web.js",
+    "bot",
+    "automacao"
+  ],
+  "author": "Desenvolvedor",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0",
+    "moment": "^2.29.4",
+    "qrcode-terminal": "^0.12.0",
+    "sqlite3": "^5.1.7",
+    "whatsapp-web.js": "^1.23.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
